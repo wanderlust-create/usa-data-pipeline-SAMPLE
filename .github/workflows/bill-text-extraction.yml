@@ -1,0 +1,19 @@
+name: Text Extraction from Bills
+
+on:
+  # schedule:
+  #   - cron: "0 1 * * *" # every day at 1am UTC
+  workflow_dispatch
+
+jobs:
+  update-data:
+    name: Text Extraction
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: windy-civi/opencivicdata-blockchain-transformer@bill-text-extraction
+        with:
+          state: usa
+          github-token: ${{ secrets.GITHUB_TOKEN }}

@@ -1,0 +1,36 @@
+name: Scrape and Format Data
+
+on:
+  # schedule:
+  #   - cron: "0 1 * * *" # every day at 1am UTC
+  workflow_dispatch:
+    inputs:
+      use-scrape-cache:
+        type: boolean
+        description: Use OpenStates scraper cache
+        default: false
+      force-update:
+        type: boolean
+        description: "Force push even if upstream changed (use with caution)"
+        default: false
+
+jobs:
+  update-data:
+    name: Scrape and Format Data
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # needed to push
+
+    steps:
+      # Make sure the repo checked out to commit/push changes
+      - name: Checkout caller repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 # full history helps with pushes/lease checks
+
+      - name: Run transformer action
+        uses: windy-civi/opencivicdata-blockchain-transformer@scrape-and-format-data
+        with:
+          state: wy #UPDATE STATE HERE
+          use-scrape-cache: ${{ inputs.use-scrape-cache }}
+          force-update: ${{ inputs.force-update }}
