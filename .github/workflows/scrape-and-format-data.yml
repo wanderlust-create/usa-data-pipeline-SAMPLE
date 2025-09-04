@@ -31,6 +31,6 @@ jobs:
       - name: Run transformer action
         uses: windy-civi/opencivicdata-blockchain-transformer@scrape-and-format-data
         with:
-          state: wy #UPDATE STATE HERE
+          state: usa #UPDATE STATE HERE
           use-scrape-cache: ${{ inputs.use-scrape-cache }}
           force-update: ${{ inputs.force-update }}
