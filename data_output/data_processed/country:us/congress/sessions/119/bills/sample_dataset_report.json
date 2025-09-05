@@ -1,0 +1,1774 @@
+{
+  "total_bills": 250,
+  "creation_date": "/Users/tamara/tad_code.nosync/current_projects/CHN/SAMPLE-DATA-SETS/usa-data-pipeline-SAMPLE",
+  "impact_distribution": {
+    "high_impact": 75,
+    "medium_impact": 100,
+    "low_impact": 50,
+    "mixed_impact": 25
+  },
+  "bill_types": {
+    "House Bills": 150,
+    "Senate Bills": 87,
+    "Joint Resolutions": 11,
+    "Concurrent Resolutions": 2
+  },
+  "progression_stats": {
+    "became_law": 144,
+    "passed_chamber": 5,
+    "committee_activity": 7,
+    "introduced_only": 94
+  },
+  "sample_bills": [
+    {
+      "identifier": "HR 2808",
+      "title": "Homebuyers Privacy Protection Act",
+      "impact_level": "high_impact",
+      "progression_score": 295,
+      "cosponsor_count": 90
+    },
+    {
+      "identifier": "HR 3944",
+      "title": "Military Construction and Veterans Affairs, Agriculture, and Legislative Branch Appropriations Act, 2026",
+      "impact_level": "high_impact",
+      "progression_score": 250,
+      "cosponsor_count": 1
+    },
+    {
+      "identifier": "HR 1048",
+      "title": "DETERRENT Act",
+      "impact_level": "high_impact",
+      "progression_score": 225,
+      "cosponsor_count": 22
+    },
+    {
+      "identifier": "HR 1286",
+      "title": "Simplifying Forms for Veterans Claims Act",
+      "impact_level": "high_impact",
+      "progression_score": 195,
+      "cosponsor_count": 19
+    },
+    {
+      "identifier": "S 1467",
+      "title": "Homebuyers Privacy Protection Act",
+      "impact_level": "high_impact",
+      "progression_score": 175,
+      "cosponsor_count": 46
+    },
+    {
+      "identifier": "S 356",
+      "title": "Secure Rural Schools Reauthorization Act of 2025",
+      "impact_level": "high_impact",
+      "progression_score": 175,
+      "cosponsor_count": 28
+    },
+    {
+      "identifier": "S 911",
+      "title": "Chief Herbert D. Proffitt Act of 2025",
+      "impact_level": "high_impact",
+      "progression_score": 175,
+      "cosponsor_count": 10
+    },
+    {
+      "identifier": "S 129",
+      "title": "No Tax on Tips Act",
+      "impact_level": "high_impact",
+      "progression_score": 175,
+      "cosponsor_count": 9
+    },
+    {
+      "identifier": "HR 2351",
+      "title": "To direct the Commandant of the Coast Guard to update the policy of the Coast Guard regarding the use of medication to treat drug overdose, and for other purposes.",
+      "impact_level": "high_impact",
+      "progression_score": 155,
+      "cosponsor_count": 3
+    },
+    {
+      "identifier": "HR 1373",
+      "title": "Tennessee Valley Authority Transparency Act of 2025",
+      "impact_level": "high_impact",
+      "progression_score": 155,
+      "cosponsor_count": 3
+    },
+    {
+      "identifier": "HR 1520",
+      "title": "Charlotte Woodward Organ Transplant Discrimination Prevention Act",
+      "impact_level": "high_impact",
+      "progression_score": 145,
+      "cosponsor_count": 29
+    },
+    {
+      "identifier": "HR 260",
+      "title": "No Tax Dollars for Terrorists Act",
+      "impact_level": "high_impact",
+      "progression_score": 145,
+      "cosponsor_count": 28
+    },
+    {
+      "identifier": "HR 875",
+      "title": "Jeremy and Angel Seay and Sergeant Brandon Mendoza Protect Our Communities from DUIs Act of 2025",
+      "impact_level": "high_impact",
+      "progression_score": 145,
+      "cosponsor_count": 24
+    },
+    {
+      "identifier": "HR 1634",
+      "title": "ThinkDIFFERENTLY About Disability Employment Act",
+      "impact_level": "high_impact",
+      "progression_score": 145,
+      "cosponsor_count": 5
+    },
+    {
+      "identifier": "HR 1770",
+      "title": "Consumer Safety Technology Act",
+      "impact_level": "high_impact",
+      "progression_score": 145,
+      "cosponsor_count": 4
+    },
+    {
+      "identifier": "HR 1155",
+      "title": "Recovery of Stolen Checks Act",
+      "impact_level": "high_impact",
+      "progression_score": 145,
+      "cosponsor_count": 4
+    },
+    {
+      "identifier": "HR 1621",
+      "title": "Entrepreneurs with Disabilities Reporting Act of 2025",
+      "impact_level": "high_impact",
+      "progression_score": 145,
+      "cosponsor_count": 3
+    },
+    {
+      "identifier": "HR 997",
+      "title": "National Taxpayer Advocate Enhancement Act of 2025",
+      "impact_level": "high_impact",
+      "progression_score": 145,
+      "cosponsor_count": 2
+    },
+    {
+      "identifier": "HR 2056",
+      "title": "District of Columbia Federal Immigration Compliance Act of 2025",
+      "impact_level": "high_impact",
+      "progression_score": 145,
+      "cosponsor_count": 2
+    },
+    {
+      "identifier": "HR 998",
+      "title": "Internal Revenue Service Math and Taxpayer Help Act",
+      "impact_level": "high_impact",
+      "progression_score": 145,
+      "cosponsor_count": 2
+    },
+    {
+      "identifier": "HR 1082",
+      "title": "Shandra Eisenga Human Cell and Tissue Product Safety Act",
+      "impact_level": "high_impact",
+      "progression_score": 145,
+      "cosponsor_count": 2
+    },
+    {
+      "identifier": "HR 1716",
+      "title": "Taiwan Conflict Deterrence Act of 2025",
+      "impact_level": "high_impact",
+      "progression_score": 145,
+      "cosponsor_count": 2
+    },
+    {
+      "identifier": "HR 1156",
+      "title": "Pandemic Unemployment Fraud Enforcement Act",
+      "impact_level": "high_impact",
+      "progression_score": 135,
+      "cosponsor_count": 26
+    },
+    {
+      "identifier": "HR 1039",
+      "title": "Clear Communication for Veterans Claims Act",
+      "impact_level": "high_impact",
+      "progression_score": 115,
+      "cosponsor_count": 10
+    },
+    {
+      "identifier": "HR 1912",
+      "title": "Veteran Fraud Reimbursement Act of 2025",
+      "impact_level": "high_impact",
+      "progression_score": 115,
+      "cosponsor_count": 8
+    },
+    {
+      "identifier": "HR 3062",
+      "title": "Promoting Cross-border Energy Infrastructure Act",
+      "impact_level": "high_impact",
+      "progression_score": 115,
+      "cosponsor_count": 3
+    },
+    {
+      "identifier": "HR 983",
+      "title": "Montgomery GI Bill Selected Reserves Tuition Fairness Act of 2025",
+      "impact_level": "high_impact",
+      "progression_score": 115,
+      "cosponsor_count": 1
+    },
+    {
+      "identifier": "HR 30",
+      "title": "Preventing Violence Against Women by Illegal Aliens Act",
+      "impact_level": "high_impact",
+      "progression_score": 105,
+      "cosponsor_count": 61
+    },
+    {
+      "identifier": "HR 965",
+      "title": "Housing Unhoused Disabled Veterans Act",
+      "impact_level": "high_impact",
+      "progression_score": 105,
+      "cosponsor_count": 47
+    },
+    {
+      "identifier": "HR 33",
+      "title": "To amend the Internal Revenue Code of 1986 to provide special rules for the taxation of certain residents of Taiwan with income from sources within the United States.",
+      "impact_level": "high_impact",
+      "progression_score": 105,
+      "cosponsor_count": 47
+    },
+    {
+      "identifier": "HR 35",
+      "title": "Agent Raul Gonzalez Officer Safety Act",
+      "impact_level": "high_impact",
+      "progression_score": 105,
+      "cosponsor_count": 33
+    },
+    {
+      "identifier": "HR 647",
+      "title": "Ensuring Veterans’ Final Resting Place Act of 2025",
+      "impact_level": "high_impact",
+      "progression_score": 105,
+      "cosponsor_count": 14
+    },
+    {
+      "identifier": "HR 224",
+      "title": "Disabled Veterans Housing Support Act",
+      "impact_level": "high_impact",
+      "progression_score": 105,
+      "cosponsor_count": 12
+    },
+    {
+      "identifier": "HR 2259",
+      "title": "National Strategy for School Security Act of 2025",
+      "impact_level": "high_impact",
+      "progression_score": 105,
+      "cosponsor_count": 9
+    },
+    {
+      "identifier": "HR 1682",
+      "title": "BELO’S Act",
+      "impact_level": "high_impact",
+      "progression_score": 105,
+      "cosponsor_count": 6
+    },
+    {
+      "identifier": "HR 579",
+      "title": "Recruiting Families Using Data Act of 2025",
+      "impact_level": "high_impact",
+      "progression_score": 105,
+      "cosponsor_count": 3
+    },
+    {
+      "identifier": "HR 1325",
+      "title": "Commercial Remote Sensing Amendment Act of 2025",
+      "impact_level": "high_impact",
+      "progression_score": 105,
+      "cosponsor_count": 2
+    },
+    {
+      "identifier": "HR 226",
+      "title": "Eastern Band of Cherokee Historic Lands Reacquisition Act",
+      "impact_level": "high_impact",
+      "progression_score": 105,
+      "cosponsor_count": 1
+    },
+    {
+      "identifier": "HRES 489",
+      "title": "Providing for consideration of the bill (H.R. 884) to prohibit individuals who are not citizens of the United States from voting in elections in the District of Columbia and to repeal the Local Resident Voting Rights Amendment Act of 2022; providing for consideration of the bill (H.R. 2056) to require the District of Columbia to comply with federal immigration laws; providing for consideration of the bill (H.R. 2096) to restore the right to negotiate matters pertaining to the discipline of law enforcement officers of the District of Columbia through collective bargaining, to restore the statute of limitations for bringing disciplinary cases against members or civilian employees of the Metropolitan Police Department of the District of Columbia, and for other purposes; and providing for consideration of the bill (S. 331) to amend the Controlled Substances Act with respect to the scheduling of fentanyl-related substances, and for other purposes.",
+      "impact_level": "high_impact",
+      "progression_score": 80,
+      "cosponsor_count": 1
+    },
+    {
+      "identifier": "HR 2954",
+      "title": "Veterans’ Transition to Trucking Act of 2025",
+      "impact_level": "high_impact",
+      "progression_score": 65,
+      "cosponsor_count": 7
+    },
+    {
+      "identifier": "HR 2137",
+      "title": "Review Every Veterans Claim Act of 2025",
+      "impact_level": "high_impact",
+      "progression_score": 65,
+      "cosponsor_count": 6
+    },
+    {
+      "identifier": "HR 3481",
+      "title": "Delivering Digitally to Our Veterans Act of 2025",
+      "impact_level": "high_impact",
+      "progression_score": 65,
+      "cosponsor_count": 5
+    },
+    {
+      "identifier": "HR 3951",
+      "title": "Rural Veterans’ Improved Access to Benefits Act of 2025",
+      "impact_level": "high_impact",
+      "progression_score": 65,
+      "cosponsor_count": 3
+    },
+    {
+      "identifier": "HR 3123",
+      "title": "Ernest Peltz Accrued Veterans Benefits Act",
+      "impact_level": "high_impact",
+      "progression_score": 65,
+      "cosponsor_count": 2
+    },
+    {
+      "identifier": "HR 4071",
+      "title": "Combatting International Drug Trafficking and Human Smuggling Partnership Act of 2025",
+      "impact_level": "high_impact",
+      "progression_score": 65,
+      "cosponsor_count": 2
+    },
+    {
+      "identifier": "HR 2173",
+      "title": "Tools Tax Deduction Act",
+      "impact_level": "high_impact",
+      "progression_score": 15,
+      "cosponsor_count": 3
+    },
+    {
+      "identifier": "HR 3541",
+      "title": "See the Board Act",
+      "impact_level": "high_impact",
+      "progression_score": 15,
+      "cosponsor_count": 7
+    },
+    {
+      "identifier": "HR 4895",
+      "title": "Afghan Adjustment Act",
+      "impact_level": "high_impact",
+      "progression_score": 15,
+      "cosponsor_count": 12
+    },
+    {
+      "identifier": "HR 725",
+      "title": "Crow Revenue Act",
+      "impact_level": "high_impact",
+      "progression_score": 55,
+      "cosponsor_count": 2
+    },
+    {
+      "identifier": "S 173",
+      "title": "Fueling Alternative Transportation with a Carbon Aviation Tax Act of 2025",
+      "impact_level": "high_impact",
+      "progression_score": 15,
+      "cosponsor_count": 6
+    },
+    {
+      "identifier": "HR 446",
+      "title": "Endowment Tax Fairness Act",
+      "impact_level": "high_impact",
+      "progression_score": 15,
+      "cosponsor_count": 4
+    },
+    {
+      "identifier": "S 355",
+      "title": "FDA Modernization Act 3.0",
+      "impact_level": "high_impact",
+      "progression_score": 15,
+      "cosponsor_count": 10
+    },
+    {
+      "identifier": "HR 2050",
+      "title": "Homeland Heroes Pay Act",
+      "impact_level": "high_impact",
+      "progression_score": 15,
+      "cosponsor_count": 5
+    },
+    {
+      "identifier": "HR 3263",
+      "title": "PATCH Act",
+      "impact_level": "high_impact",
+      "progression_score": 15,
+      "cosponsor_count": 2
+    },
+    {
+      "identifier": "S 1177",
+      "title": "Volunteer Driver Tax Appreciation Act of 2025",
+      "impact_level": "high_impact",
+      "progression_score": 15,
+      "cosponsor_count": 2
+    },
+    {
+      "identifier": "HR 3016",
+      "title": "Combatting Hospital Monopolies Act",
+      "impact_level": "high_impact",
+      "progression_score": 15,
+      "cosponsor_count": 1
+    },
+    {
+      "identifier": "HR 2752",
+      "title": "Ensuring Safer Schools Act of 2025",
+      "impact_level": "high_impact",
+      "progression_score": 15,
+      "cosponsor_count": 1
+    },
+    {
+      "identifier": "HRES 328",
+      "title": "Expressing support for the staff of public, school, academic, and special libraries in the United States and the essential services those libraries provide to communities, recognizing the need for funding commensurate with the broad scope of social service and community supports provided by libraries, preserving the right of all citizens of the United States to freely access information and resources in their communities, supporting a strong union voice for library workers, and defending the civil rights of library staff.",
+      "impact_level": "high_impact",
+      "progression_score": 10,
+      "cosponsor_count": 27
+    },
+    {
+      "identifier": "HR 2038",
+      "title": "American Housing and Economic Mobility Act of 2025",
+      "impact_level": "high_impact",
+      "progression_score": 25,
+      "cosponsor_count": 27
+    },
+    {
+      "identifier": "HR 4441",
+      "title": "Patient Access to Innovative New Technologies Act of 2025",
+      "impact_level": "high_impact",
+      "progression_score": 15,
+      "cosponsor_count": 2
+    },
+    {
+      "identifier": "HR 4146",
+      "title": "PAPA Act of 2025",
+      "impact_level": "high_impact",
+      "progression_score": 25,
+      "cosponsor_count": 2
+    },
+    {
+      "identifier": "HR 905",
+      "title": "EITC Modernization Act",
+      "impact_level": "high_impact",
+      "progression_score": 15,
+      "cosponsor_count": 18
+    },
+    {
+      "identifier": "S 2117",
+      "title": "Preventing Deep Fake Scams Act",
+      "impact_level": "high_impact",
+      "progression_score": 15,
+      "cosponsor_count": 2
+    },
+    {
+      "identifier": "HR 124",
+      "title": "Byron Nash Renal Medullary Carcinoma Awareness Act of 2023",
+      "impact_level": "high_impact",
+      "progression_score": 15,
+      "cosponsor_count": 1
+    },
+    {
+      "identifier": "HR 88",
+      "title": "Medical Innovation Acceleration Act of 2025",
+      "impact_level": "high_impact",
+      "progression_score": 15,
+      "cosponsor_count": 1
+    },
+    {
+      "identifier": "S 986",
+      "title": "Safe Schools Improvement Act",
+      "impact_level": "high_impact",
+      "progression_score": 15,
+      "cosponsor_count": 29
+    },
+    {
+      "identifier": "HR 4479",
+      "title": "To amend the National Housing Act to direct the Secretary of Housing and Urban Development to establish a program to insure certain second liens secured against property for the purpose of financing the construction of an accessory dwelling unit, and for other purposes.",
+      "impact_level": "high_impact",
+      "progression_score": 15,
+      "cosponsor_count": 17
+    },
+    {
+      "identifier": "HR 2102",
+      "title": "Major Richard Star Act",
+      "impact_level": "high_impact",
+      "progression_score": 25,
+      "cosponsor_count": 302
+    },
+    {
+      "identifier": "HR 4006",
+      "title": "Mission UNPLUGGED Act",
+      "impact_level": "high_impact",
+      "progression_score": 15,
+      "cosponsor_count": 3
+    },
+    {
+      "identifier": "S 2045",
+      "title": "Protecting Endowments from Our Adversaries Act",
+      "impact_level": "high_impact",
+      "progression_score": 15,
+      "cosponsor_count": 3
+    },
+    {
+      "identifier": "HR 4507",
+      "title": "TUTOR Act",
+      "impact_level": "high_impact",
+      "progression_score": 15,
+      "cosponsor_count": 2
+    },
+    {
+      "identifier": "HR 834",
+      "title": "Disaster Assistance Fairness Act",
+      "impact_level": "high_impact",
+      "progression_score": 25,
+      "cosponsor_count": 9
+    },
+    {
+      "identifier": "HR 3974",
+      "title": "Protect Black Women and Girls Act",
+      "impact_level": "high_impact",
+      "progression_score": 15,
+      "cosponsor_count": 17
+    },
+    {
+      "identifier": "HR 1895",
+      "title": "Delphi Retirees Pension Restoration Act",
+      "impact_level": "high_impact",
+      "progression_score": 15,
+      "cosponsor_count": 18
+    },
+    {
+      "identifier": "S 2538",
+      "title": "Working Waterfront Disaster Mitigation Tax Credit Act",
+      "impact_level": "high_impact",
+      "progression_score": 15,
+      "cosponsor_count": 2
+    },
+    {
+      "identifier": "HR 1815",
+      "title": "VA Home Loan Program Reform Act",
+      "impact_level": "medium_impact",
+      "progression_score": 545,
+      "cosponsor_count": 1
+    },
+    {
+      "identifier": "HR 4",
+      "title": "Rescissions Act of 2025",
+      "impact_level": "medium_impact",
+      "progression_score": 535,
+      "cosponsor_count": 6
+    },
+    {
+      "identifier": "HJRES 89",
+      "title": "Providing congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Environmental Protection Agency relating to \"California State Motor Vehicle and Engine and Nonroad Engine Pollution Control Standards; The 'Omnibus' Low NOX Regulation; Waiver of Preemption; Notice of Decision\".",
+      "impact_level": "medium_impact",
+      "progression_score": 525,
+      "cosponsor_count": 33
+    },
+    {
+      "identifier": "S 331",
+      "title": "HALT Fentanyl Act",
+      "impact_level": "medium_impact",
+      "progression_score": 525,
+      "cosponsor_count": 32
+    },
+    {
+      "identifier": "HR 517",
+      "title": "Filing Relief for Natural Disasters Act",
+      "impact_level": "medium_impact",
+      "progression_score": 495,
+      "cosponsor_count": 2
+    },
+    {
+      "identifier": "HR 1316",
+      "title": "Maintaining American Superiority by Improving Export Control Transparency Act",
+      "impact_level": "medium_impact",
+      "progression_score": 455,
+      "cosponsor_count": 3
+    },
+    {
+      "identifier": "HJRES 88",
+      "title": "Providing congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Environmental Protection Agency relating to \"California State Motor Vehicle and Engine Pollution Control Standards; Advanced Clean Cars II; Waiver of Preemption; Notice of Decision\".",
+      "impact_level": "medium_impact",
+      "progression_score": 445,
+      "cosponsor_count": 42
+    },
+    {
+      "identifier": "HJRES 87",
+      "title": "Providing congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Environmental Protection Agency relating to \"California State Motor Vehicle and Engine Pollution Control Standards; Heavy-Duty Vehicle and Engine Emission Warranty and Maintenance Provisions; Advanced Clean Trucks; Zero Emission Airport Shuttle; Zero-Emission Power Train Certification; Waiver of Preemption; Notice of Decision\".",
+      "impact_level": "medium_impact",
+      "progression_score": 445,
+      "cosponsor_count": 25
+    },
+    {
+      "identifier": "HJRES 61",
+      "title": "Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Environmental Protection Agency relating to \"National Emission Standards for Hazardous Air Pollutants: Rubber Tire Manufacturing\".",
+      "impact_level": "medium_impact",
+      "progression_score": 445,
+      "cosponsor_count": 21
+    },
+    {
+      "identifier": "HJRES 35",
+      "title": "Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Environmental Protection Agency relating to \"Waste Emissions Charge for Petroleum and Natural Gas Systems: Procedures for Facilitating Compliance, Including Netting and Exemptions\".",
+      "impact_level": "medium_impact",
+      "progression_score": 445,
+      "cosponsor_count": 20
+    },
+    {
+      "identifier": "S 423",
+      "title": "PRO Veterans Act of 2025",
+      "impact_level": "medium_impact",
+      "progression_score": 445,
+      "cosponsor_count": 14
+    },
+    {
+      "identifier": "S 160",
+      "title": "Aerial Firefighting Enhancement Act of 2025",
+      "impact_level": "medium_impact",
+      "progression_score": 445,
+      "cosponsor_count": 9
+    },
+    {
+      "identifier": "HJRES 42",
+      "title": "Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Department of Energy relating to \"Energy Conservation Program for Appliance Standards: Certification Requirements, Labeling Requirements, and Enforcement Provisions for Certain Consumer Products and Commercial Equipment\".",
+      "impact_level": "medium_impact",
+      "progression_score": 445,
+      "cosponsor_count": 7
+    },
+    {
+      "identifier": "S 201",
+      "title": "ACES Act of 2025",
+      "impact_level": "medium_impact",
+      "progression_score": 445,
+      "cosponsor_count": 4
+    },
+    {
+      "identifier": "HR 43",
+      "title": "Alaska Native Village Municipal Lands Restoration Act of 2025",
+      "impact_level": "medium_impact",
+      "progression_score": 445,
+      "cosponsor_count": 1
+    },
+    {
+      "identifier": "HR 42",
+      "title": "Alaska Native Settlement Trust Eligibility Act",
+      "impact_level": "medium_impact",
+      "progression_score": 445,
+      "cosponsor_count": 1
+    },
+    {
+      "identifier": "HR 2170",
+      "title": "To name the Department of Veterans Affairs community-based outpatient clinic in Toms River, New Jersey, the Leonard G. 'Bud' Lomell, VA Clinic, and for other purposes.",
+      "impact_level": "medium_impact",
+      "progression_score": 275,
+      "cosponsor_count": 12
+    },
+    {
+      "identifier": "HR 2987",
+      "title": "CEASE Act of 2025",
+      "impact_level": "medium_impact",
+      "progression_score": 225,
+      "cosponsor_count": 1
+    },
+    {
+      "identifier": "HR 1578",
+      "title": "Veterans Claims Education Act of 2025",
+      "impact_level": "medium_impact",
+      "progression_score": 195,
+      "cosponsor_count": 10
+    },
+    {
+      "identifier": "HR 1364",
+      "title": "Automotive Support Services to Improve Safe Transportation Act of 2025",
+      "impact_level": "medium_impact",
+      "progression_score": 195,
+      "cosponsor_count": 8
+    },
+    {
+      "identifier": "HR 217",
+      "title": "CHIP IN for Veterans Act of 2025",
+      "impact_level": "medium_impact",
+      "progression_score": 195,
+      "cosponsor_count": 7
+    },
+    {
+      "identifier": "HR 2201",
+      "title": "Improving VA Training for Military Sexual Trauma Claims Act",
+      "impact_level": "medium_impact",
+      "progression_score": 195,
+      "cosponsor_count": 6
+    },
+    {
+      "identifier": "HR 1823",
+      "title": "VA Budget Shortfall Accountability Act",
+      "impact_level": "medium_impact",
+      "progression_score": 195,
+      "cosponsor_count": 2
+    },
+    {
+      "identifier": "HR 1969",
+      "title": "No Wrong Door for Veterans Act",
+      "impact_level": "medium_impact",
+      "progression_score": 195,
+      "cosponsor_count": 2
+    },
+    {
+      "identifier": "HR 27",
+      "title": "HALT Fentanyl Act",
+      "impact_level": "medium_impact",
+      "progression_score": 185,
+      "cosponsor_count": 62
+    },
+    {
+      "identifier": "S 1659",
+      "title": "Bankruptcy Administration Improvement Act of 2025",
+      "impact_level": "medium_impact",
+      "progression_score": 175,
+      "cosponsor_count": 11
+    },
+    {
+      "identifier": "S 1595",
+      "title": "Improving Police CARE Act",
+      "impact_level": "medium_impact",
+      "progression_score": 175,
+      "cosponsor_count": 8
+    },
+    {
+      "identifier": "S 1020",
+      "title": "A bill to require the Federal Energy Regulatory Commission to extend the time period during which licensees are required to commence construction of certain hydropower projects.",
+      "impact_level": "medium_impact",
+      "progression_score": 175,
+      "cosponsor_count": 8
+    },
+    {
+      "identifier": "S 283",
+      "title": "Illegal Red Snapper and Tuna Enforcement Act",
+      "impact_level": "medium_impact",
+      "progression_score": 175,
+      "cosponsor_count": 5
+    },
+    {
+      "identifier": "S 257",
+      "title": "Promoting Resilient Supply Chains Act of 2025",
+      "impact_level": "medium_impact",
+      "progression_score": 175,
+      "cosponsor_count": 4
+    },
+    {
+      "identifier": "S 260",
+      "title": "Bottles and Breastfeeding Equipment Screening Enhancement Act",
+      "impact_level": "medium_impact",
+      "progression_score": 175,
+      "cosponsor_count": 4
+    },
+    {
+      "identifier": "S 307",
+      "title": "Prison Staff Safety Enhancement Act",
+      "impact_level": "medium_impact",
+      "progression_score": 175,
+      "cosponsor_count": 4
+    },
+    {
+      "identifier": "S 98",
+      "title": "Rural Broadband Protection Act of 2025",
+      "impact_level": "medium_impact",
+      "progression_score": 175,
+      "cosponsor_count": 4
+    },
+    {
+      "identifier": "S 1136",
+      "title": "DETERRENCE Act",
+      "impact_level": "medium_impact",
+      "progression_score": 175,
+      "cosponsor_count": 4
+    },
+    {
+      "identifier": "S 97",
+      "title": "Securing Semiconductor Supply Chains Act",
+      "impact_level": "medium_impact",
+      "progression_score": 175,
+      "cosponsor_count": 3
+    },
+    {
+      "identifier": "S 32",
+      "title": "LACA",
+      "impact_level": "medium_impact",
+      "progression_score": 175,
+      "cosponsor_count": 2
+    },
+    {
+      "identifier": "S 1071",
+      "title": "A bill to require the Secretary of Veterans Affairs to disinter the remains of Fernando V. Cota from Fort Sam Houston National Cemetery, Texas, and for other purposes.",
+      "impact_level": "medium_impact",
+      "progression_score": 175,
+      "cosponsor_count": 2
+    },
+    {
+      "identifier": "S 1155",
+      "title": "A bill to amend the Trafficking Victims Protection Act of 2000 to make technical corrections.",
+      "impact_level": "medium_impact",
+      "progression_score": 175,
+      "cosponsor_count": 2
+    },
+    {
+      "identifier": "S 282",
+      "title": "Katahdin Woods and Waters National Monument Access Act",
+      "impact_level": "medium_impact",
+      "progression_score": 175,
+      "cosponsor_count": 1
+    },
+    {
+      "identifier": "HRES 668",
+      "title": "Directing the Committee on Oversight and Government Reform to continue its ongoing investigation into the possible mismanagement of the Federal government's investigation of Mr. Jeffrey Epstein and Ms. Ghislaine Maxwell, and for other purposes.",
+      "impact_level": "medium_impact",
+      "progression_score": 170,
+      "cosponsor_count": 9
+    },
+    {
+      "identifier": "HRES 293",
+      "title": "Providing for the announcement of pairs from a written list furnished to the Clerk, and for other purposes.",
+      "impact_level": "medium_impact",
+      "progression_score": 170,
+      "cosponsor_count": 1
+    },
+    {
+      "identifier": "HRES 605",
+      "title": "Establishing the Select Subcommittee to Investigate the Remaining Questions Surrounding January 6, 2021.",
+      "impact_level": "medium_impact",
+      "progression_score": 170,
+      "cosponsor_count": 1
+    },
+    {
+      "identifier": "HR 530",
+      "title": "ACES Act",
+      "impact_level": "medium_impact",
+      "progression_score": 165,
+      "cosponsor_count": 35
+    },
+    {
+      "identifier": "S 2682",
+      "title": "Captain Paul W. 'Bud' Bucha VA Medical Center Act of 2025",
+      "impact_level": "medium_impact",
+      "progression_score": 165,
+      "cosponsor_count": 2
+    },
+    {
+      "identifier": "HR 248",
+      "title": "Baby Changing on Board Act",
+      "impact_level": "medium_impact",
+      "progression_score": 155,
+      "cosponsor_count": 8
+    },
+    {
+      "identifier": "HR 1182",
+      "title": "Compressed Gas Cylinder Safety and Oversight Improvements Act of 2025",
+      "impact_level": "medium_impact",
+      "progression_score": 155,
+      "cosponsor_count": 5
+    },
+    {
+      "identifier": "HR 2316",
+      "title": "Wetlands Conservation and Access Improvement Act of 2025",
+      "impact_level": "medium_impact",
+      "progression_score": 155,
+      "cosponsor_count": 4
+    },
+    {
+      "identifier": "HR 252",
+      "title": "Secure Our Ports Act of 2025",
+      "impact_level": "medium_impact",
+      "progression_score": 155,
+      "cosponsor_count": 3
+    },
+    {
+      "identifier": "HR 2035",
+      "title": "American Cargo for American Ships Act",
+      "impact_level": "medium_impact",
+      "progression_score": 155,
+      "cosponsor_count": 2
+    },
+    {
+      "identifier": "HR 410",
+      "title": "Alaska Native Vietnam Era Veterans Land Allotment Extension Act of 2025",
+      "impact_level": "medium_impact",
+      "progression_score": 155,
+      "cosponsor_count": 1
+    },
+    {
+      "identifier": "HR 2390",
+      "title": "Maritime Supply Chain Security Act",
+      "impact_level": "medium_impact",
+      "progression_score": 155,
+      "cosponsor_count": 1
+    },
+    {
+      "identifier": "HR 3095",
+      "title": "To direct the United States Postal Service to designate single, unique ZIP Codes for certain communities, and for other purposes.",
+      "impact_level": "medium_impact",
+      "progression_score": 145,
+      "cosponsor_count": 34
+    },
+    {
+      "identifier": "HR 2225",
+      "title": "Access to Small Business Investor Capital Act",
+      "impact_level": "medium_impact",
+      "progression_score": 145,
+      "cosponsor_count": 26
+    },
+    {
+      "identifier": "HR 2240",
+      "title": "Improving Law Enforcement Officer Safety and Wellness Through Data Act",
+      "impact_level": "medium_impact",
+      "progression_score": 145,
+      "cosponsor_count": 23
+    },
+    {
+      "identifier": "HR 2243",
+      "title": "LEOSA Reform Act",
+      "impact_level": "medium_impact",
+      "progression_score": 145,
+      "cosponsor_count": 19
+    },
+    {
+      "identifier": "HR 672",
+      "title": "To establish new ZIP Codes for certain communities, and for other purposes.",
+      "impact_level": "medium_impact",
+      "progression_score": 145,
+      "cosponsor_count": 14
+    },
+    {
+      "identifier": "HR 249",
+      "title": "To redesignate certain facilities at Paterson Great Falls National Historical Park in honor of Congressman Bill Pascrell, Jr.",
+      "impact_level": "medium_impact",
+      "progression_score": 145,
+      "cosponsor_count": 12
+    },
+    {
+      "identifier": "HR 2643",
+      "title": "Haiti Criminal Collusion Transparency Act of 2025",
+      "impact_level": "medium_impact",
+      "progression_score": 145,
+      "cosponsor_count": 10
+    },
+    {
+      "identifier": "HR 4490",
+      "title": "PARTNER Act",
+      "impact_level": "medium_impact",
+      "progression_score": 145,
+      "cosponsor_count": 9
+    },
+    {
+      "identifier": "HR 4215",
+      "title": "International Traffic in Arms Regulations Licensing Reform Act",
+      "impact_level": "medium_impact",
+      "progression_score": 145,
+      "cosponsor_count": 7
+    },
+    {
+      "identifier": "HR 4511",
+      "title": "Uncheck the Box Act",
+      "impact_level": "medium_impact",
+      "progression_score": 15,
+      "cosponsor_count": 5
+    },
+    {
+      "identifier": "HR 1902",
+      "title": "HERO Act",
+      "impact_level": "medium_impact",
+      "progression_score": 15,
+      "cosponsor_count": 29
+    },
+    {
+      "identifier": "S 606",
+      "title": "Contaminated Wells Relocation Act",
+      "impact_level": "medium_impact",
+      "progression_score": 15,
+      "cosponsor_count": 2
+    },
+    {
+      "identifier": "HR 4789",
+      "title": "FAIR Act",
+      "impact_level": "medium_impact",
+      "progression_score": 15,
+      "cosponsor_count": 1
+    },
+    {
+      "identifier": "HRES 270",
+      "title": "Removing James E. Boasberg, Chief Judge of the United States District Court for the District of Columbia, for failure to remain in good behavior pursuant to section 1 of article III of the Constitution.",
+      "impact_level": "medium_impact",
+      "progression_score": 10,
+      "cosponsor_count": 7
+    },
+    {
+      "identifier": "HR 2041",
+      "title": "Hidden Fee Disclosure Act of 2025",
+      "impact_level": "medium_impact",
+      "progression_score": 15,
+      "cosponsor_count": 2
+    },
+    {
+      "identifier": "HR 1555",
+      "title": "Bureau of Land Management Mineral Spacing Act",
+      "impact_level": "medium_impact",
+      "progression_score": 15,
+      "cosponsor_count": 1
+    },
+    {
+      "identifier": "HR 1903",
+      "title": "Congressional Trade Authority Act of 2025",
+      "impact_level": "medium_impact",
+      "progression_score": 15,
+      "cosponsor_count": 21
+    },
+    {
+      "identifier": "HR 468",
+      "title": "Mel’s Law",
+      "impact_level": "medium_impact",
+      "progression_score": 15,
+      "cosponsor_count": 7
+    },
+    {
+      "identifier": "S 1196",
+      "title": "Special Government Employees Transparency Act of 2025",
+      "impact_level": "medium_impact",
+      "progression_score": 15,
+      "cosponsor_count": 9
+    },
+    {
+      "identifier": "HR 4643",
+      "title": "Business Uninterrupted Monetary Program Act of 2025",
+      "impact_level": "medium_impact",
+      "progression_score": 15,
+      "cosponsor_count": 2
+    },
+    {
+      "identifier": "HR 1671",
+      "title": "Justice for Vaccine Injured Veterans Act of 2025",
+      "impact_level": "medium_impact",
+      "progression_score": 25,
+      "cosponsor_count": 9
+    },
+    {
+      "identifier": "HR 1072",
+      "title": "AIM HIGH Act",
+      "impact_level": "medium_impact",
+      "progression_score": 15,
+      "cosponsor_count": 1
+    },
+    {
+      "identifier": "HR 1505",
+      "title": "Public Safety Employer-Employee Cooperation Act",
+      "impact_level": "medium_impact",
+      "progression_score": 15,
+      "cosponsor_count": 45
+    },
+    {
+      "identifier": "S 1881",
+      "title": "Public Service Worker Protection Act",
+      "impact_level": "medium_impact",
+      "progression_score": 15,
+      "cosponsor_count": 13
+    },
+    {
+      "identifier": "HR 2311",
+      "title": "Pakistan Democracy Act",
+      "impact_level": "medium_impact",
+      "progression_score": 15,
+      "cosponsor_count": 17
+    },
+    {
+      "identifier": "S 1763",
+      "title": "Motorsports Fairness and Permanency Act of 2025",
+      "impact_level": "medium_impact",
+      "progression_score": 15,
+      "cosponsor_count": 5
+    },
+    {
+      "identifier": "S 420",
+      "title": "Dairy Business Innovation Act of 2025",
+      "impact_level": "medium_impact",
+      "progression_score": 15,
+      "cosponsor_count": 2
+    },
+    {
+      "identifier": "HR 3246",
+      "title": "Violet’s Law",
+      "impact_level": "medium_impact",
+      "progression_score": 15,
+      "cosponsor_count": 48
+    },
+    {
+      "identifier": "S 1521",
+      "title": "Stand with Israel Act",
+      "impact_level": "medium_impact",
+      "progression_score": 15,
+      "cosponsor_count": 25
+    },
+    {
+      "identifier": "S 1878",
+      "title": "ATTAIN Mental Health Act",
+      "impact_level": "medium_impact",
+      "progression_score": 15,
+      "cosponsor_count": 2
+    },
+    {
+      "identifier": "S 1480",
+      "title": "American Infrastructure Bonds Act of 2025",
+      "impact_level": "medium_impact",
+      "progression_score": 15,
+      "cosponsor_count": 8
+    },
+    {
+      "identifier": "HR 1343",
+      "title": "Federal Broadband Deployment Tracking Act",
+      "impact_level": "medium_impact",
+      "progression_score": 15,
+      "cosponsor_count": 2
+    },
+    {
+      "identifier": "HR 2563",
+      "title": "Aviation Education Remaining Operational Act",
+      "impact_level": "medium_impact",
+      "progression_score": 25,
+      "cosponsor_count": 1
+    },
+    {
+      "identifier": "HR 1333",
+      "title": "To amend the Intermodal Surface Transportation Efficiency Act of 1991 to designate a portion of United States Route 74 in North Carolina as a future interstate, and for other purposes.",
+      "impact_level": "medium_impact",
+      "progression_score": 25,
+      "cosponsor_count": 2
+    },
+    {
+      "identifier": "HR 2376",
+      "title": "To nullify the Henry Mountains and Fremont Gorge Travel Management Plan.",
+      "impact_level": "medium_impact",
+      "progression_score": 15,
+      "cosponsor_count": 1
+    },
+    {
+      "identifier": "S 839",
+      "title": "Safeguarding Honest Speech Act",
+      "impact_level": "medium_impact",
+      "progression_score": 15,
+      "cosponsor_count": 2
+    },
+    {
+      "identifier": "HR 4518",
+      "title": "Cooper Davis and Devin Norring Act",
+      "impact_level": "medium_impact",
+      "progression_score": 15,
+      "cosponsor_count": 9
+    },
+    {
+      "identifier": "HR 4341",
+      "title": "International Maritime Pollution Accountability Act of 2025",
+      "impact_level": "medium_impact",
+      "progression_score": 15,
+      "cosponsor_count": 2
+    },
+    {
+      "identifier": "HR 3799",
+      "title": "Executive Order 14286 Act of 2025",
+      "impact_level": "medium_impact",
+      "progression_score": 25,
+      "cosponsor_count": 1
+    },
+    {
+      "identifier": "HR 4217",
+      "title": "VA COST SAVINGS Enhancements Act",
+      "impact_level": "medium_impact",
+      "progression_score": 15,
+      "cosponsor_count": 1
+    },
+    {
+      "identifier": "HR 315",
+      "title": "To waive certain provisions in the case of an emergency declaration under the Robert T. Stafford Disaster Relief and Emergency Assistance Act.",
+      "impact_level": "medium_impact",
+      "progression_score": 25,
+      "cosponsor_count": 1
+    },
+    {
+      "identifier": "S 1274",
+      "title": "Protecting American Households From Rising Energy Costs Act of 2025",
+      "impact_level": "medium_impact",
+      "progression_score": 15,
+      "cosponsor_count": 3
+    },
+    {
+      "identifier": "S 509",
+      "title": "Future Logging Careers Act",
+      "impact_level": "medium_impact",
+      "progression_score": 15,
+      "cosponsor_count": 6
+    },
+    {
+      "identifier": "HR 2940",
+      "title": "Advancing Water Reuse Act",
+      "impact_level": "medium_impact",
+      "progression_score": 15,
+      "cosponsor_count": 7
+    },
+    {
+      "identifier": "S 81",
+      "title": "Guidance Clarity Act of 2025",
+      "impact_level": "medium_impact",
+      "progression_score": 15,
+      "cosponsor_count": 3
+    },
+    {
+      "identifier": "S 1479",
+      "title": "BOOST for Engines Act",
+      "impact_level": "medium_impact",
+      "progression_score": 15,
+      "cosponsor_count": 1
+    },
+    {
+      "identifier": "HR 4918",
+      "title": "Advancing Gun Safety Technology Act",
+      "impact_level": "medium_impact",
+      "progression_score": 15,
+      "cosponsor_count": 4
+    },
+    {
+      "identifier": "HR 4781",
+      "title": "RESCUE Act of 2025",
+      "impact_level": "medium_impact",
+      "progression_score": 15,
+      "cosponsor_count": 12
+    },
+    {
+      "identifier": "HR 680",
+      "title": "Caring for Survivors Act of 2025",
+      "impact_level": "medium_impact",
+      "progression_score": 25,
+      "cosponsor_count": 2
+    },
+    {
+      "identifier": "SJRES 31",
+      "title": "A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Environmental Protection Agency relating to \"Review of Final Rule Reclassification of Major Sources as Area Sources Under Section 112 of the Clean Air Act\".",
+      "impact_level": "low_impact",
+      "progression_score": 525,
+      "cosponsor_count": 6
+    },
+    {
+      "identifier": "SJRES 11",
+      "title": "A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Bureau of Ocean Energy Management relating to \"Protection of Marine Archaeological Resources\".",
+      "impact_level": "low_impact",
+      "progression_score": 525,
+      "cosponsor_count": 3
+    },
+    {
+      "identifier": "HR 2215",
+      "title": "Salem Maritime National Historical Park Redesignation and Boundary Study Act",
+      "impact_level": "low_impact",
+      "progression_score": 455,
+      "cosponsor_count": 1
+    },
+    {
+      "identifier": "SJRES 18",
+      "title": "A joint resolution disapproving the rule submitted by the Bureau of Consumer Financial Protection relating to \"Overdraft Lending: Very Large Financial Institutions\".",
+      "impact_level": "low_impact",
+      "progression_score": 445,
+      "cosponsor_count": 17
+    },
+    {
+      "identifier": "SJRES 28",
+      "title": "A joint resolution disapproving the rule submitted by the Bureau of Consumer Financial Protection relating to \"Defining Larger Participants of a Market for General-Use Digital Consumer Payment Applications\".",
+      "impact_level": "low_impact",
+      "progression_score": 445,
+      "cosponsor_count": 6
+    },
+    {
+      "identifier": "SJRES 13",
+      "title": "A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Office of the Comptroller of the Currency of the Department of the Treasury relating to the review of applications under the Bank Merger Act.",
+      "impact_level": "low_impact",
+      "progression_score": 445,
+      "cosponsor_count": 6
+    },
+    {
+      "identifier": "HR 77",
+      "title": "Midnight Rules Relief Act",
+      "impact_level": "low_impact",
+      "progression_score": 185,
+      "cosponsor_count": 13
+    },
+    {
+      "identifier": "SJRES 7",
+      "title": "A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Federal Communications Commission relating to \"Addressing the Homework Gap Through the E-Rate Program\".",
+      "impact_level": "low_impact",
+      "progression_score": 175,
+      "cosponsor_count": 17
+    },
+    {
+      "identifier": "SJRES 3",
+      "title": "A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Internal Revenue Service relating to \"Gross Proceeds Reporting by Brokers That Regularly Provide Services Effectuating Digital Asset Sales\".",
+      "impact_level": "low_impact",
+      "progression_score": 175,
+      "cosponsor_count": 15
+    },
+    {
+      "identifier": "SJRES 37",
+      "title": "A joint resolution terminating the national emergency declared to impose duties on articles imported from Canada.",
+      "impact_level": "low_impact",
+      "progression_score": 175,
+      "cosponsor_count": 10
+    },
+    {
+      "identifier": "SJRES 55",
+      "title": "A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the National Highway Traffic Safety Administration relating to \"Federal Motor Vehicle Safety Standards; Fuel System Integrity of Hydrogen Vehicles; Compressed Hydrogen Storage System Integrity; Incorporation by Reference\".",
+      "impact_level": "low_impact",
+      "progression_score": 175,
+      "cosponsor_count": 1
+    },
+    {
+      "identifier": "SCONRES 3",
+      "title": "A concurrent resolution authorizing the use of the rotunda of the Capitol for the lying in state of the remains of the late James Earl Carter, Jr., 39th President of the United States.",
+      "impact_level": "low_impact",
+      "progression_score": 165,
+      "cosponsor_count": 2
+    },
+    {
+      "identifier": "SCONRES 12",
+      "title": "A concurrent resolution authorizing the use of Emancipation Hall in the Capitol Visitor Center for a ceremony to present the Congressional Gold Medal, collectively, to the United States Army Rangers Veterans of World War II.",
+      "impact_level": "low_impact",
+      "progression_score": 165,
+      "cosponsor_count": 2
+    },
+    {
+      "identifier": "SCONRES 2",
+      "title": "A concurrent resolution to provide for the counting on January 6, 2025, of the electoral votes for President and Vice President of the United States.",
+      "impact_level": "low_impact",
+      "progression_score": 165,
+      "cosponsor_count": 1
+    },
+    {
+      "identifier": "SCONRES 1",
+      "title": "A concurrent resolution extending the life of the Joint Congressional Committee on Inaugural Ceremonies.",
+      "impact_level": "low_impact",
+      "progression_score": 165,
+      "cosponsor_count": 1
+    },
+    {
+      "identifier": "HRES 137",
+      "title": "Resolution designating the House Press Gallery (Rooms H-315, H-316, H-317, H-318, and H-319 in the United States Capitol) as the 'Frederick Douglass Press Gallery’",
+      "impact_level": "low_impact",
+      "progression_score": 140,
+      "cosponsor_count": 6
+    },
+    {
+      "identifier": "HR 186",
+      "title": "Hershel Woody Williams National Medal of Honor Monument Location Act",
+      "impact_level": "low_impact",
+      "progression_score": 105,
+      "cosponsor_count": 9
+    },
+    {
+      "identifier": "HR 837",
+      "title": "To require the Secretary of Agriculture to convey the Pleasant Valley Ranger District Administrative Site to Gila County, Arizona.",
+      "impact_level": "low_impact",
+      "progression_score": 105,
+      "cosponsor_count": 1
+    },
+    {
+      "identifier": "SRES 53",
+      "title": "A resolution recognizing the 80th anniversary of the amphibious landing on the Japanese island of Iwo Jima during World War II and the raisings of the flag of the United States on Mount Suribachi.",
+      "impact_level": "low_impact",
+      "progression_score": 95,
+      "cosponsor_count": 39
+    },
+    {
+      "identifier": "SRES 290",
+      "title": "A resolution commemorating June 19, 2025, as \"Juneteenth National Independence Day\" in recognition of June 19, 1865, the date on which news of the end of slavery reached the slaves in the Southwestern States.",
+      "impact_level": "low_impact",
+      "progression_score": 95,
+      "cosponsor_count": 32
+    },
+    {
+      "identifier": "SRES 214",
+      "title": "A resolution recognizing the significance of Asian American, Native Hawaiian, and Pacific Islander Heritage Month as an important time to celebrate the significant contributions of Asian Americans, Native Hawaiians, and Pacific Islanders to the history of the United States.",
+      "impact_level": "low_impact",
+      "progression_score": 95,
+      "cosponsor_count": 30
+    },
+    {
+      "identifier": "SRES 315",
+      "title": "A resolution expressing support for the designation of July 10, 2025, as Journeyman Lineworkers Recognition Day.",
+      "impact_level": "low_impact",
+      "progression_score": 95,
+      "cosponsor_count": 23
+    },
+    {
+      "identifier": "SRES 143",
+      "title": "A resolution supporting the designation of May 29, 2025, as \"Mental Health Awareness in Agriculture Day\" to raise awareness around mental health in the agricultural industry and workforce and to continue to reduce stigma associated with mental illness.",
+      "impact_level": "low_impact",
+      "progression_score": 95,
+      "cosponsor_count": 16
+    },
+    {
+      "identifier": "SRES 340",
+      "title": "A resolution designating July 30, 2025, as \"National Whistleblower Appreciation Day\".",
+      "impact_level": "low_impact",
+      "progression_score": 95,
+      "cosponsor_count": 16
+    },
+    {
+      "identifier": "SRES 283",
+      "title": "A resolution commemorating the 90th birthday of His Holiness the 14th Dalai Lama on July 6, 2025, as \"A Day of Compassion\" and expressing support for the human rights and distinct religious, cultural, linguistic, and historical identity of the Tibetan people.",
+      "impact_level": "low_impact",
+      "progression_score": 95,
+      "cosponsor_count": 13
+    },
+    {
+      "identifier": "SRES 120",
+      "title": "A resolution recognizing Girl Scouts of the United States of America on its 113th birthday and celebrating its founder, Juliette Gordon Low, and the legacy of providing girls with a secure and inclusive space where they can explore their world, build meaningful relationships, and have access to experiences that prepare them for a life of leadership.",
+      "impact_level": "low_impact",
+      "progression_score": 95,
+      "cosponsor_count": 8
+    },
+    {
+      "identifier": "SRES 149",
+      "title": "A resolution designating April 2025 as \"Second Chance Month\".",
+      "impact_level": "low_impact",
+      "progression_score": 95,
+      "cosponsor_count": 8
+    },
+    {
+      "identifier": "SRES 301",
+      "title": "A resolution condemning the attacks on Minnesota lawmakers in Brooklyn Park and Champlin, Minnesota and calling for unity and the rejection of political violence in Minnesota and across the United States.",
+      "impact_level": "low_impact",
+      "progression_score": 95,
+      "cosponsor_count": 7
+    },
+    {
+      "identifier": "SRES 72",
+      "title": "A resolution affirming that Hamas cannot retain any political or military control in the Gaza Strip.",
+      "impact_level": "low_impact",
+      "progression_score": 95,
+      "cosponsor_count": 6
+    },
+    {
+      "identifier": "SRES 276",
+      "title": "A resolution designating June 12, 2025, as \"Women Veterans Appreciation Day\".",
+      "impact_level": "low_impact",
+      "progression_score": 95,
+      "cosponsor_count": 6
+    },
+    {
+      "identifier": "SRES 5",
+      "title": "A resolution notifying the House of Representatives of the election of a President pro tempore.",
+      "impact_level": "low_impact",
+      "progression_score": 85,
+      "cosponsor_count": 1
+    },
+    {
+      "identifier": "SRES 355",
+      "title": "A resolution requesting information on the Republic of Rwanda's human rights practices pursuant to section 502B(c) of the Foreign Assistance Act of 1961.",
+      "impact_level": "low_impact",
+      "progression_score": 15,
+      "cosponsor_count": 1
+    },
+    {
+      "identifier": "SRES 306",
+      "title": "A resolution expressing support for the designation of June 26 as \"LGBTQI+ Equality Day\".",
+      "impact_level": "low_impact",
+      "progression_score": 15,
+      "cosponsor_count": 26
+    },
+    {
+      "identifier": "HRES 544",
+      "title": "Supporting the designation of the month of June 2025, as \"National Men's Health Month\".",
+      "impact_level": "low_impact",
+      "progression_score": 10,
+      "cosponsor_count": 5
+    },
+    {
+      "identifier": "SRES 278",
+      "title": "A resolution condemning the violent antisemitic attack in Boulder, Colorado, and expressing support for the survivors and their families.",
+      "impact_level": "low_impact",
+      "progression_score": 85,
+      "cosponsor_count": 3
+    },
+    {
+      "identifier": "SRES 103",
+      "title": "A resolution condemning the rejection by the United States of a United Nations resolution condemning the illegal invasion of Ukraine by the Russian Federation.",
+      "impact_level": "low_impact",
+      "progression_score": 15,
+      "cosponsor_count": 5
+    },
+    {
+      "identifier": "S 1764",
+      "title": "Ending Administrative Garnishment Act of 2025",
+      "impact_level": "low_impact",
+      "progression_score": 15,
+      "cosponsor_count": 2
+    },
+    {
+      "identifier": "HRES 622",
+      "title": "Honoring the contributions of small manufacturers of firearms to the economy, culture, and recreational heritage of the United States and supporting the designation of August 2025 as \"National Shooting Sports Month\".",
+      "impact_level": "low_impact",
+      "progression_score": 10,
+      "cosponsor_count": 1
+    },
+    {
+      "identifier": "SRES 372",
+      "title": "A resolution honoring the life of Kansas City, Kansas police officer Hunter Simoncic.",
+      "impact_level": "low_impact",
+      "progression_score": 15,
+      "cosponsor_count": 2
+    },
+    {
+      "identifier": "HRES 580",
+      "title": "Providing for consideration of the bill (H.R. 4016) making appropriations for the Department of Defense for the fiscal year ending September 30, 2026, and for other purposes; providing for consideration of the bill (H.R. 3633) to provide for a system of regulation of the offer and sale of digital commodities by the Securities and Exchange Commission and the Commodity Futures Trading Commission, and for other purposes; providing for consideration of the bill (H.R. 1919) to amend the Federal Reserve Act to prohibit the Federal reserve banks from offering certain products or services directly to an individual, to prohibit the use of central bank digital currency for monetary policy, and for other purposes; providing for consideration of the bill (S. 1582) to provide for the regulation of payment stablecoins, and for other purposes; and waiving a requirement of clause 6(a) of rule XIII with respect to consideration of certain resolutions reported from the Committee on Rules.",
+      "impact_level": "low_impact",
+      "progression_score": 80,
+      "cosponsor_count": 1
+    },
+    {
+      "identifier": "HRES 345",
+      "title": "Expressing support for designation of the month of April 2025 as \"Parkinsons Awareness Month\".",
+      "impact_level": "low_impact",
+      "progression_score": 10,
+      "cosponsor_count": 3
+    },
+    {
+      "identifier": "HRES 60",
+      "title": "Expressing the support of the House of Representatives for the naming of new or undedicated facilities of the Department of Veterans Affairs after women veterans and minority veterans in order to reflect the diversity of all who have served in the Armed Forces of the United States.",
+      "impact_level": "low_impact",
+      "progression_score": 10,
+      "cosponsor_count": 9
+    },
+    {
+      "identifier": "HRES 607",
+      "title": "Supporting the designation of the week of August 25 through August 29, 2025, as the third annual \"National Community Health Worker Awareness Week\".",
+      "impact_level": "low_impact",
+      "progression_score": 10,
+      "cosponsor_count": 11
+    },
+    {
+      "identifier": "SRES 261",
+      "title": "A resolution honoring the life of Sarah Lynn Milgrim and condemning the recent extremist attacks.",
+      "impact_level": "low_impact",
+      "progression_score": 15,
+      "cosponsor_count": 2
+    },
+    {
+      "identifier": "SRES 302",
+      "title": "A resolution designating June 30, 2025 as \"Asteroid Day\".",
+      "impact_level": "low_impact",
+      "progression_score": 15,
+      "cosponsor_count": 2
+    },
+    {
+      "identifier": "HR 4097",
+      "title": "Designate CAIR as a Terrorist Organization Act",
+      "impact_level": "low_impact",
+      "progression_score": 15,
+      "cosponsor_count": 2
+    },
+    {
+      "identifier": "HRES 354",
+      "title": "Providing for consideration of the joint resolution (H.J. Res. 60) providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the National Park Service relating to \"Glen Canyon National Recreation Area: Motor Vehicles\"; providing for consideration of the joint resolution (H.J. Res. 78) providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the United States Fish and Wildlife Service relating to \"Endangered and Threatened Wildlife and Plants; Endangered Species Status for the San Francisco Bay-Delta Distinct Population Segment of the Longfin Smelt\"; providing for consideration of the joint resolution (H.J. Res. 87) providing congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Environmental Protection Agency relating to \"California State Motor Vehicle and Engine Pollution Control Standards; Heavy-Duty Vehicle and Engine Emission Warranty and Maintenance Provisions; Advanced Clean Trucks; Zero Emission Airport Shuttle; Zero-Emission Power Train Certification; Waiver of Preemption; Notice of Decision\"; providing for consideration of the joint resolution (H.J. Res. 88) providing congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Environmental Protection Agency relating to \"California State Motor Vehicle and Engine Pollution Control Standards; Advanced Clean Cars II; Waiver of Preemption; Notice of Decision\"; providing for consideration of the joint resolution (H.J. Res. 89) providing congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Environmental Protection Agency relating to \"California State Motor Vehicle and Engine and Nonroad Engine Pollution Control Standards; The 'Omnibus' Low NOX Regulation; Waiver of Preemption; Notice of Decision\"; and for other purposes.",
+      "impact_level": "low_impact",
+      "progression_score": 80,
+      "cosponsor_count": 1
+    },
+    {
+      "identifier": "SRES 101",
+      "title": "A resolution affirming the threats to world stability from a nuclear weapons-capable Islamic Republic of Iran.",
+      "impact_level": "low_impact",
+      "progression_score": 15,
+      "cosponsor_count": 3
+    },
+    {
+      "identifier": "HRES 513",
+      "title": "Supporting the designation of the second Friday of June as \"National Service and Conservation Corps Day\".",
+      "impact_level": "low_impact",
+      "progression_score": 10,
+      "cosponsor_count": 4
+    },
+    {
+      "identifier": "SJRES 23",
+      "title": "A joint resolution providing for congressional disapproval of the proposed license amendment for the export to Israel of certain defense articles and services.",
+      "impact_level": "low_impact",
+      "progression_score": 15,
+      "cosponsor_count": 1
+    },
+    {
+      "identifier": "HR 1968",
+      "title": "Full-Year Continuing Appropriations and Extensions Act, 2025",
+      "impact_level": "mixed_impact",
+      "progression_score": 525,
+      "cosponsor_count": 1
+    },
+    {
+      "identifier": "S 5",
+      "title": "Laken Riley Act",
+      "impact_level": "mixed_impact",
+      "progression_score": 520,
+      "cosponsor_count": 54
+    },
+    {
+      "identifier": "S 1582",
+      "title": "GENIUS Act",
+      "impact_level": "mixed_impact",
+      "progression_score": 520,
+      "cosponsor_count": 6
+    },
+    {
+      "identifier": "HR 1",
+      "title": "One Big Beautiful Bill Act",
+      "impact_level": "mixed_impact",
+      "progression_score": 510,
+      "cosponsor_count": 1
+    },
+    {
+      "identifier": "HJRES 25",
+      "title": "Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Internal Revenue Service relating to \"Gross Proceeds Reporting by Brokers That Regularly Provide Services Effectuating Digital Asset Sales\".",
+      "impact_level": "mixed_impact",
+      "progression_score": 485,
+      "cosponsor_count": 10
+    },
+    {
+      "identifier": "HR 618",
+      "title": "Apex Area Technical Corrections Act",
+      "impact_level": "mixed_impact",
+      "progression_score": 485,
+      "cosponsor_count": 4
+    },
+    {
+      "identifier": "HJRES 20",
+      "title": "Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Department of Energy relating to \"Energy Conservation Program: Energy Conservation Standards for Consumer Gas-fired Instantaneous Water Heaters\".",
+      "impact_level": "mixed_impact",
+      "progression_score": 445,
+      "cosponsor_count": 30
+    },
+    {
+      "identifier": "S 146",
+      "title": "TAKE IT DOWN Act",
+      "impact_level": "mixed_impact",
+      "progression_score": 445,
+      "cosponsor_count": 22
+    },
+    {
+      "identifier": "HJRES 75",
+      "title": "Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Office of Energy Efficiency and Renewable Energy, Department of Energy relating to \"Energy Conservation Program: Energy Conservation Standards for Commercial Refrigerators, Freezers, and Refrigerator-Freezers\".",
+      "impact_level": "mixed_impact",
+      "progression_score": 445,
+      "cosponsor_count": 14
+    },
+    {
+      "identifier": "HJRES 24",
+      "title": "Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Department of Energy relating to \"Energy Conservation Program: Energy Conservation Standards for Walk-In Coolers and Walk-In Freezers\".",
+      "impact_level": "mixed_impact",
+      "progression_score": 445,
+      "cosponsor_count": 11
+    },
+    {
+      "identifier": "HJRES 60",
+      "title": "Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the National Park Service relating to \"Glen Canyon National Recreation Area: Motor Vehicles\".",
+      "impact_level": "mixed_impact",
+      "progression_score": 445,
+      "cosponsor_count": 4
+    },
+    {
+      "identifier": "S 1596",
+      "title": "Jocelyn Nungaray National Wildlife Refuge Act",
+      "impact_level": "mixed_impact",
+      "progression_score": 445,
+      "cosponsor_count": 2
+    },
+    {
+      "identifier": "HCONRES 22",
+      "title": "Authorizing the use of Emancipation Hall in the Capitol Visitor Center for a ceremony to present the Congressional Gold Medals awarded under the 'Six Triple Eight' Congressional Gold Medal Act of 2021.",
+      "impact_level": "mixed_impact",
+      "progression_score": 250,
+      "cosponsor_count": 1
+    },
+    {
+      "identifier": "HCONRES 14",
+      "title": "Establishing the congressional budget for the United States Government for fiscal year 2025 and setting forth the appropriate budgetary levels for fiscal years 2026 through 2034.",
+      "impact_level": "mixed_impact",
+      "progression_score": 240,
+      "cosponsor_count": 1
+    },
+    {
+      "identifier": "HR 881",
+      "title": "DHS Restrictions on Confucius Institutes and Chinese Entities of Concern Act",
+      "impact_level": "mixed_impact",
+      "progression_score": 235,
+      "cosponsor_count": 6
+    },
+    {
+      "identifier": "HRES 368",
+      "title": "Requesting information on El Salvador's human rights practices pursuant to section 502B(c) of the Foreign Assistance Act of 1961.",
+      "impact_level": "mixed_impact",
+      "progression_score": 10,
+      "cosponsor_count": 5
+    },
+    {
+      "identifier": "HR 641",
+      "title": "Coordination for Soil Carbon Research and Monitoring Act",
+      "impact_level": "mixed_impact",
+      "progression_score": 25,
+      "cosponsor_count": 6
+    },
+    {
+      "identifier": "S 1497",
+      "title": "Cerro de la Olla Wilderness Establishment Act",
+      "impact_level": "mixed_impact",
+      "progression_score": 15,
+      "cosponsor_count": 2
+    },
+    {
+      "identifier": "S 957",
+      "title": "Honor Our Living Donors Act",
+      "impact_level": "mixed_impact",
+      "progression_score": 15,
+      "cosponsor_count": 3
+    },
+    {
+      "identifier": "HR 807",
+      "title": "Public and Private Sector Ransomware Response Coordination Act of 2025",
+      "impact_level": "mixed_impact",
+      "progression_score": 15,
+      "cosponsor_count": 2
+    },
+    {
+      "identifier": "HR 1442",
+      "title": "Youth Poisoning Protection Act",
+      "impact_level": "mixed_impact",
+      "progression_score": 135,
+      "cosponsor_count": 3
+    },
+    {
+      "identifier": "S 1270",
+      "title": "Consensual Donation and Research Integrity Act of 2025",
+      "impact_level": "mixed_impact",
+      "progression_score": 15,
+      "cosponsor_count": 2
+    },
+    {
+      "identifier": "HR 1730",
+      "title": "No Alipay Act of 2025",
+      "impact_level": "mixed_impact",
+      "progression_score": 15,
+      "cosponsor_count": 1
+    },
+    {
+      "identifier": "S 515",
+      "title": "A bill to repeal the Impoundment Control Act of 1974.",
+      "impact_level": "mixed_impact",
+      "progression_score": 15,
+      "cosponsor_count": 2
+    },
+    {
+      "identifier": "HR 3877",
+      "title": "To provide for the retrocession of the District of Columbia to Maryland, and for other purposes.",
+      "impact_level": "mixed_impact",
+      "progression_score": 15,
+      "cosponsor_count": 1
+    }
+  ]
+}
